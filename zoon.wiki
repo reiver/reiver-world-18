@@ -8,7 +8,7 @@ wiki/1
 
 **Zoon** is a character from **18**.
 
-He is the adopted son of **Gorg** — who raised him from birth, and treats him like his own son.
+He is the adopted son of [[gorg-ons]] — who raised him from birth, and treats him like his own son.
 
-He is the adopted sister of **Lupa** (who is the daughter of **Gorg**).
-Although **Lupa** is **Zoon**'s adopted sister, **Lupa** acts more like a mother-figure to **Zoon**.
+He is the adopted sister of [[lupa-ons]] (who is the daughter of [[gorg-ons]]).
+Although [[lupa-ons]] is **Zoon**'s adopted sister, [[lupa-ons]] acts more like a mother-figure to **Zoon**.
