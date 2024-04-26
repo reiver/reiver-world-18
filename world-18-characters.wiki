@@ -10,9 +10,9 @@ wiki/1
 
 §§ Angel
 
-• Amen
-• Amenet
-• Shiraz
+• [[angel-amen]]
+• [[angel-amenet]]
+• [[angel-shiraz]]
 
 §§ Baz
 
@@ -21,10 +21,10 @@ wiki/1
 
 §§ Human
 
-• Gorg
+• [[gorg-ons]]
 • Grand Master
 • Imsety
-• Lupa
+• [[lupa-ons]]
 
 §§§ Shab
 
