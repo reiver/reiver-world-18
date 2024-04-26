@@ -36,6 +36,10 @@ wiki/1
 
 • Min
 
+§§ Khroma
+
+• Set
+
 §§ Marid
 
 • [[sala]]
@@ -49,6 +53,10 @@ wiki/1
 §§ Narangi
 
 • Pomelo
+
+§§ Sphinx
+
+• [[sekmet]]
 
 §§ Verkā
 
@@ -67,7 +75,6 @@ wiki/1
 • Tatenen
 • [[zoon]]
 
-§§ Others
+§§ Unknown
 
 • Isis
-• Set
