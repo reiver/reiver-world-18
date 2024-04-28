@@ -8,4 +8,10 @@ wiki/1
 
 **18** includes a number of different locations —
 
-• [[seyawt]]
+§§ Planet
+
+• [[kemeta]]
+
+§§ Village
+
+• [[seyawt]] — a village on planet [[kemeta]]
