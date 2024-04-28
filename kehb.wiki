@@ -6,12 +6,6 @@ wiki/1
 
 **Kehb** is one of the [[world-18-characters]].
 
-§§ World 18
-
-[[world-18]], usually just shorterned to **18**, is an animation influenced by //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空), as well as influenced by ancient Egyptian mythology, and Persian mythology.
-
-§§ About
-
 **Kehb** is a deity.
 
 **Kehb** is //biologically immortal// — meaning that unless something or someone kills him, he will continue to live on.
@@ -20,11 +14,9 @@ wiki/1
 
 **Kehb** is the father of [[usirus]].
 
-Legend has it that **Kehb** was able to create //landquakes//, and created the first serpents and dragons.
+Legend has it that **Kehb** is able to create //land-quakes//, and created the first serpents and dragons.
 
-§§ Inspiration
+§§ See Also
 
-The inspiration for the **Usirus** character from **18** is the **ancient Egytpian deity**: **Geb**.
-Whose name is also sometimes spelled as: **Gebb**, **Keb**, **Kebb**, and **Seb**.
-
-In //ancient Egytpian mythology// **Geb** is sometimes depicted as person with green skin.
+• [[kehb-inspirations]]
+• [[world-18]]
