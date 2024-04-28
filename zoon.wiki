@@ -6,11 +6,11 @@ wiki/1
 
 **Zoon** is a character from **18**.
 
-§ World 18
+§§ World 18
 
 [[world-18]], usually just shorterned to **18**, is an animation influenced by //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空), as well as influenced by ancient Egyptian mythology, and Persian mythology.
 
-§ About
+§§ About
 
 **Zoon** lives in the village of [[seyawt]].
 
@@ -18,3 +18,7 @@ He is the adopted son of [[gorg-varka]] — who raised him from birth, and treat
 
 He is the adopted brother of [[lupa-varka]] (who is the daughter of [[gorg-varka]]).
 Although [[lupa-varka]] is **Zoon**'s adopted sister, [[lupa-varka]] acts more like a mother-figure to **Zoon**.
+
+§§ Inspiration
+
+The inspiration for **Zoon**'s name is the Aramaic language word //khilazon// and its many modern cognates — such as //halazoon// in the Persian language.
