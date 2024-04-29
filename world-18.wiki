@@ -4,18 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-**World 18**, usually just shorterned to **18**, is an animation.
-
-§§ Influences
-
-**18** has a number of influences.
-
-Its main influence is //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空).
-
-But it is also influenced by:
-
-• ancient Egyptian mythology,
-• Persian mythology.
+**World 18**, usually just shorterned to **18**, is an //animation// and //fictional world//.
 
 §§ See Also
 
@@ -24,7 +13,21 @@ But it is also influenced by:
 • [[world-18-locations]]
 • [[world-18-metaphysics]]
 
+§§ Influences
+
+**18** has a number of influences.
+
+Its main influence is //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空) who in Japan is known as [[son-goku]].
+
+Its next major influence is **ancient Egyptian mythology**.
+Many of its characters and story element come from **ancient Egyptian mythology**.
+
+Other influences include (in alphabetical order): **(modern) American mythology**, **Arabian mythology**, and **Persian mythology**.
+
 §§ Team
+
+Work on **18** started in the year 2019 with just 3 people.
+As time went on more people joined the team.
 
 The people who created **18** (in alphabetical order) include:
 
