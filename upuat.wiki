@@ -4,12 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-
 **Upuat** is one of the [[world-18-characters]].
-
-§§ World 18
-
-[[world-18]], usually just shorterned to **18**, is an animation influenced by //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空), as well as influenced by ancient Egyptian mythology, and Persian mythology.
 
 §§ About
 
@@ -19,16 +14,7 @@ wiki/1
 
 The village of [[seduat]] has a long history of revering, exalting, and even worshipping **Upuat**.
 
-§§ Inspiration
+§§ See Also
 
-The inspiration for the **Upuat** from **18** is the **ancient Egytpian deity**: **Wepwawet**.
-Whose name is also sometimes spelled as: **Upuaut**, **Wep-wawet**, **Wepawet**, **Apuat**, and **Ophois**.
-
-In //ancient Egytpian mythology// **Wepwawet** is often depicted as person with the head of a grayish haired wolf — of the type, of wolf, that are more common around Egypt, that are leaner and somewhat resemble jackals.
-
-**18** focuses on **Wepwawet**:
-
-• as an opener of ways,
-• with his assocation with the city of Zawty,
-• with his association with war, and
-• with his association with death.
+• [[upuat-inspirations]]
+• [[world-18]]
