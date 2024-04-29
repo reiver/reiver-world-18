@@ -6,21 +6,13 @@ wiki/1
 
 An **efret** is part of the [[world-18-metaphysics]].
 
-§§ World 18
-
-[[world-18]], usually just shorterned to **18**, is an animation influenced by //another animation// that was based on a hundreds-of-years-old story called [[journey-to-the-west]] (西遊記) that featured the character [[son-wu-kong]] (孫悟空), as well as influenced by ancient Egyptian mythology, and Persian mythology.
-
-§§ About
-
 There are 2 parts to a being's **soul**: the [[baah]] and the [[kaah]].
 
 If a being is killed or witnesses great suffering, destruction, or distress (whether their own or someone else's they care about), especially at or near the time of their death, then their [[kaah]] //could// transform into an **Efret**.
 
-An **Efret** seeks violent vengence.
+An **Efret** seeks violent vengence for the great suffering, destruction, or distress it witnessed..
 
-**Efret** are said to look like shadowy voids that are shaped somewhat similar to a regular body.
+§§ See Also
 
-§§ Inspiration
-
-The main source of inspiration for the **efret** from **18** is the modern Egyptian folklore of the **afarit**.
-This itself is influenced by the **ancient Egytpian** concept of the **ka**, and the **ifrit** from Arabic mythology.
+• [[efret-inspirations]]
+• [[world-18]]
