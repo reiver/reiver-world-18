@@ -1,6 +1,6 @@
 wiki/1
 
-§ World 18 Characters
+§ Four acolytes Of Harus
 
 ⸺ by Charles Iliya Krempeaux
 
@@ -11,3 +11,7 @@ The members of this **group** include —
 • Hapi
 • Imsety
 • Qebehsenuef
+
+§§ See Also
+
+• [[harus]]
