@@ -1,0 +1,13 @@
+wiki/1
+
+§ Hello World!
+
+⸺ by Joe Blow
+
+⸺ published 2024-04-30T09:30:01-07:00
+
+⁁ log/2024/04/30/1714494601/drawing.jpeg
+
+Drawing by **Aryan Yazdanpanah**.
+
+An iteration of the **dragon monster** for **episode 1** of [[world-18]], after feedback from **Charles Iliya Krempeaux**.
