@@ -40,25 +40,6 @@ The exact shade of **green** of a **sabzii**'s skin-tone can even //sometimes// 
 
 The exception being **sabzii** who //develop// or who are //born with// a condition call [[the-hunger]].
 
-§§ Green Day
-
-Most **sabzii** observe a tradition where they ritualistically eat a certain plant.
-
-Many **sabzii** farm this plant.
-
-Most of the ritualistic focus is placed on the //green parts// of the plant.
-But eating the non-green parts is imporant, too.
-
-This tradition happens once a year.
-Although some populations of **sabzii** observe it at different times of the year.
-
-If the //certain plant// isn't available, other green plants are broadly considered acceptable.
-But, in this situation, it is also believed to be importnt to eat other things, too.
-
-It is said that this tradition brings //good health// to the **sabzii** participants.
-
-It is also believed that those who don't participate in //green day// can suffer from [[the-hunger]].
-
 §§ Temporary Growth
 
 **Sabzii** are able to grow and stretch their bodies.
@@ -75,6 +56,7 @@ There is another **sabzii** legend that they (the **sabzii**) are the source of 
 
 • [[sabzii-fission]]
 • [[sabzii-fusion]]
+• [[sabzii-green-day]]
 • [[sabzii-inspirations]]
 • [[sabzii-reproduction]]
 • [[the-hunger]]
