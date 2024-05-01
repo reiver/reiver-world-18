@@ -13,6 +13,7 @@ wiki/1
 • [[world-18-groups]]
 • [[world-18-titles]]
 • [[world-18-locations]]
+• [[world-18-logs]]
 • [[world-18-lineages]]
 • [[world-18-metaphysics]]
 
